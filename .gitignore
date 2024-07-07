@@ -1,2 +1,3 @@
 *.so
 /DynamicLibrary/mf/lib
+DynamicLibrary/mf/lib/libmf.so
